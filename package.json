@@ -1,0 +1,26 @@
+{
+  "name": "api-express-boilerplate",
+  "version": "1.0.0",
+  "description": "API Rest Scaffolding",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "API",
+    "Rest",
+    "Express",
+    "SQL"
+  ],
+  "author": "Alberto D.Sosa <albertodsosa@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "helmet": "^5.1.0",
+    "sequelize": "^6.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.18"
+  }
+}
